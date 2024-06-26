@@ -1,16 +1,14 @@
 dbus-x11
 make
-ncurses
 python3
 iproute2
 gawk
-python3 
+python3
 python
 build-essential
 gcc
 g++
 graphviz
-libc6-dev-i386
 git
 make
 net-tools
@@ -45,7 +43,6 @@ texinfo
 zlib1g-dev
 gcc-multilib
 automake
-zlib1g:i386
 screen
 pax
 gzip
