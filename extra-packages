@@ -21,7 +21,6 @@ libsecret-1-dev
 libncurses5-dev
 libncursesw5
 libtinfo5
-tftpd
 zlib1g-dev
 libssl-dev
 flex
