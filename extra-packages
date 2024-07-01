@@ -57,3 +57,4 @@ libegl1-mesa
 libsdl1.2-dev
 pylint
 xvfb
+lsb-release
